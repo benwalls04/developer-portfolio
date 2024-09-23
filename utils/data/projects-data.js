@@ -49,7 +49,7 @@ export const projectsData = [
         url: "https://github.com/benwalls04/CloudGenerator"
     }, 
     {
-        id: 4,
+        id: 5,
         name: 'Minesweeper',
         description: "I led the development of a Minesweeper replica with the MATLAB GUI, focusing on best engineering practices throughout the process. To ensure our game aligned with user needs, I conducted a series of agile research, interviews, and analysis cycles. Additionally, I documented the entire development process, which enabled our team to draw informed conclusions and effectively present our product both in writing and verbally",
         tools: ['MATLAB', 'GUI', 'Game Design'],
